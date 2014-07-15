@@ -23,4 +23,9 @@ trident cc
 
 &#60;meta name="msapplication-TileColor" content="#fcda3e" /&#62;  
 &#60;meta name="msapplication-TileImage" content="favicon-144-trans.png" /&#62;  
-tiles in windows 8. they work best as transparent images, so notice the background color is placed in meta element and actually taken out of the favicon
+tiles in windows 8. they work best as transparent images, so notice the background color is placed in meta element and actually taken out of the favicon  
+  
+relevant references:  
+http://mathiasbynens.be/notes/touch-icons  
+http://tools.dynamicdrive.com/favicon/  
+http://www.kevinleary.net/cross-browser-favicons/
